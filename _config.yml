@@ -1,9 +1,9 @@
 # Site settings
 title: Zeyu Li (Zed)
 email: zeyulized@gmail.com
-description: > 123 # this means to ignore newlines until "baseurl:"
-baseurl: "234" # the subpath of your site, e.g. /blog/
-url: "456" # the base hostname & protocol for your site
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
 
 twitter_username:
 github_username: Zedli123
